@@ -1,0 +1,84 @@
+body{
+	margin: 0px;
+	font-family: Roboto, Arial, sans-serif;
+	
+}
+
+header {
+	text-align: center;
+	padding: 120px 10px;
+	background-image: url(./images/praia.jpeg);
+	background-size: cover;
+	background-position: center;
+}
+
+div{
+	max-width: 600px;
+	margin: 40px auto;
+	padding: 10px;
+}
+
+footer {
+	text-align: center;
+	padding: 20px;
+	background-color: #2B677C;
+}
+
+a {
+	color: #EFBBA1;
+}
+
+a:hover {
+	color: #ffefe8;
+}
+
+.botao {
+	background-color: #164455;
+	padding: 10px 20px;
+	border-radius: 24px;
+	text-decoration: none;
+	color: #ffefe8;
+	font-weight: bold;
+
+}
+
+.botao:hover {
+	color: #2B677C;
+}
+
+.lista-links {
+	list-style: none;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+
+.lista-links a {
+	color: #EFBBA1;
+}
+
+.lista-links a:hover {
+	color: #ffefe8;
+}
+
+.lista-links li {
+	display: inline;
+	margin: 0 10px;
+}
+
+h1 {
+	font-family: Lobster, Arial, sans-serif;
+	font-size: 48px;
+	color: #164455;
+	text-shadow: 2px 2px 4px #ffefe8;
+}
+
+.pergunta {
+	font-family: Montserrat, Arial, sans-serif;
+	font-size: 24px;
+	margin-bottom: 40px;
+}
+
+#explicacao {
+	min-height: 58px;
+}
+
